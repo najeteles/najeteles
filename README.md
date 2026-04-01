@@ -38,7 +38,7 @@ Acredito na soberania digital e na máxima performance. Toda a minha pipeline de
 
 ## 📊 Radar de Atividade
 *(Clique no card para ver detalhes das minhas contribuições)*
-[![Contribuições de nageteles](https://github-readme-stats.vercel.app/api?username=nageteles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/najeteles?tab=overview)
+[![Contribuições de najeteles](https://github-readme-stats.vercel.app/api?username=najeteles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/najeteles?tab=overview)
 
 ---
 

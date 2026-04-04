@@ -50,12 +50,6 @@ Acredito na soberania digital e na máxima performance. Toda a minha pipeline de
 
 ---
 
-## 📊 Radar de Atividade
-*(Clique no card para ver detalhes das minhas contribuições)*
-[![Contribuições de najeteles](https://github-readme-stats.vercel.app/api?username=najeteles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/najeteles?tab=overview)
-
----
-
 ## 📇 Conecte-se com a My Serv Company
 Aponte a câmera para o QR Code abaixo para acessar meu Monocard oficial e iniciarmos um projeto de automação:
 

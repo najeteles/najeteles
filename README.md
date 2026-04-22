@@ -39,6 +39,13 @@ Especialista em criar pontes entre infraestrutura resiliente e software intelige
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
+### 👁️ Observabilidade & Monitoramento
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Netdata](https://img.shields.io/badge/Netdata-00AB44?style=for-the-badge&logo=netdata&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-62B462?style=for-the-badge&logo=statuspage&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white)
+
 ---
 
 ## 🏠 Minha Arquitetura Autônoma (On-Premise + Cloud)

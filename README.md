@@ -25,13 +25,16 @@ Especialista em criar pontes entre infraestrutura resiliente e software intelige
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### 🧠 Engenharia de IA & LLMs
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)![Hermes](https://img.shields.io/badge/Hermes-007FFF?style=for-the-badge&logo=alpaca&logoColor=white)
+![Goose](https://img.shields.io/badge/Goose-222222?style=for-the-badge&logo=goose&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-333333?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### 🏗️ DevOps, Orquestração & Infra
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

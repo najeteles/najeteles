@@ -1,7 +1,7 @@
 # Jean Teles (najeteles) 🚀
 ### Arquiteto de Soluções Full-Stack & Fundador da MyServ Company
 
-DEsenvolvedor de pontes entre infraestrutura resiliente e software inteligente. Minha expertise reside em unificar hardware de alta disponibilidade com engenharia de software modular para entregar valor tangível a negócios através da automação.
+Desenvolvedor de pontes entre infraestrutura resiliente e software inteligente. Minha expertise reside em unificar hardware de alta disponibilidade com engenharia de software modular para entregar valor tangível a negócios através da automação.
 
 ---
 

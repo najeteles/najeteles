@@ -105,7 +105,7 @@ Acredito na descentralização e na performance bruta. Minha infraestrutura é p
 
 ---
 
-## 📇 Conecte-se com a My Serv Company
+## 📇 Conecte-se com a MyServ Company
 Aponte a câmera para o QR Code abaixo para acessar meu Monocard oficial e iniciarmos um projeto de automação:
 
 <br>
